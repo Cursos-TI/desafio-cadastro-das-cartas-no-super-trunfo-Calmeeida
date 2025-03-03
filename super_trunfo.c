@@ -1,4 +1,4 @@
-#include
+#include <stdio.h>
 
 int main() {
 // Declaração das variáveis para a primeira carta
